@@ -1,0 +1,1 @@
+This one was a bit challenging to think through but I found a solution after I decided to use a Latching output for my ready bit. In my schooling we were discouraged from using Latch/Unlatch unnecessarily but I think this was an appropriate implementation.
