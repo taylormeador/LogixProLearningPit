@@ -1,0 +1,1 @@
+I thought this exercise was relatively straight forward. The ladder utilizes interlocking (with the open/close pb bits) to ensure that one motor cannot run when the other motor is running.
