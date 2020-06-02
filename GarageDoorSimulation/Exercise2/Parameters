@@ -1,0 +1,17 @@
+Door movement will halt immediately when the Stop Switch is initially pressed, and will remain halted if the switch is released.
+
+Pressing the Open Switch will cause the door to Open if not already fully open. The opening operation will continue to completion even if the switch is released.
+
+Pressing the Close Switch will cause the door to Close if not already fully shut. The closing operation will continue to completion even if the Switch is released.
+
+If the Door is already fully opened, Pressing the Open Switch will Not energize the motor.
+
+If the Door is already fully closed, Pressing the Close Switch will Not energize the motor.
+
+Under no circumstance will both motor windings be energized at the same time.
+
+The Ajar Lamp will be illuminated if the door is NOT in either the fully closed or fully opened position.
+
+The Open Lamp will be illuminated if the door is in the Fully Open position.
+
+The Shut Lamp will be illuminated if the door is in the Fully Closed position.
