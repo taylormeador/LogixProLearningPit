@@ -1,0 +1,9 @@
+We want you to modify your program to prevent the possibility of immediate reversal. As we don't need much of a delay, the following additional criteria should suffice:
+
+If the door is currently opening, pressing the Close Switch will immediately halt movement. Door movement will remain halted when the switch is released.
+
+If the door is currently closing, pressing the Open Switch will immediately halt movement. Door movement will remain halted when the switch is released.
+
+Once movement is halted, and all push buttons have been released, then door motion in either direction can once again be initiated by pressing the appropriate Open or Close button.
+
+The utilization of Binary or Integer Table bits to Flag specific conditions within your program would be appropriate. Also, the retentive OTL and OTU instructions may be utilized freely at your discretion.
