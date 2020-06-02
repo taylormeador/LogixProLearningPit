@@ -1,0 +1,15 @@
+In this exercise the Open and Close pushbuttons will be used to control the movement of the door. Movement will not be maintained when either switch is released, and therefore the Stop switch is neither required nor used in this exercise. However, all other available Inputs and Outputs are employed in this exercise.
+
+Pressing the Open Switch will cause the door to move upwards (open) if not already fully open. The opening operation will continue as long as the switch is held down. If the switch is released, or if limit switch LS1 opens, the door movement will halt immediately.
+
+Pressing the Close Switch will cause the door to move down (close) if not already fully closed. The closing operation will continue as long as the switch is held down. If the switch is released, or if limit switch LS2 closes, the door movement will halt immediately.
+
+If the Door is already fully opened, Pressing the Open Switch will Not energize the motor.
+
+If the Door is already fully closed, Pressing the Close Switch will Not energize the motor.
+
+Under no circumstance will both motor windings be energized at the same time.
+
+The Open Lamp will be illuminated if the door is in the Fully Open position.
+
+The Shut Lamp will be illuminated if the door is in the Fully Closed position.
