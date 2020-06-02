@@ -1,0 +1,1 @@
+I found this exercise interesting primarily because of the suggested use of the Status data table. This particular bit is controlled by a running timer that increments while the PLC is in Run mode.
