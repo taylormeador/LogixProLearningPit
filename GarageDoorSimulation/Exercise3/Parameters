@@ -1,0 +1,15 @@
+Place an XIC instruction addressed to S:4/4 on the rung which controls either the Open or Shut Lamp in your previous program. Now download and Run this modified program to see the flashing effect achieved. The Lamp should flash at a reasonable rate whenever your program energizes the selected Lamp.
+
+Now modify your program so that the following criteria is met:
+
+If the Door is fully open, the Open lamp will be energized but not flashing as was the case before.
+
+If the Door is opening, the Open lamp will flash while the door is in motion.
+
+If the Door is fully closed, the Shut lamp will be energized but not flashing as was the case before.
+
+If the Door is closing, the Shut lamp will flash while the door is in motion.
+
+The Ajar Lamp will flash if the door is stationary, and is not in the fully open or fully closed position. The Ajar Lamp will flash at a slower rate (1/4) then the other lamps.
+
+The Ajar Lamp will be illuminated in a steady state if the door is in motion.
